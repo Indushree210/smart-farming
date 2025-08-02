@@ -1,0 +1,6 @@
+streamlit
+ibm-watson-machine-learning
+langchain
+openai
+sentence-transformers
+PyYAML
